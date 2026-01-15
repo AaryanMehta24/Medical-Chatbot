@@ -9,7 +9,7 @@ touch src/prompt.py
 touch .env
 touch setup.py
 touch app.py
-touch research/trials.iypnb
+touch research/trials.ipynb
 touch requirements.txt
 
 
