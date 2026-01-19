@@ -93,6 +93,7 @@ ENV/
 env/
 env.bak/
 venv.bak/
+venv_medical/
 
 # Spyder project settings
 .spyderproject
@@ -123,3 +124,6 @@ cython_debug/
 
 # macOS
 .DS_Store
+
+# env files
+.env
